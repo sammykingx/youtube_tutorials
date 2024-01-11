@@ -3,3 +3,4 @@ With server-side caching, the NGINX server stores the response from the web serv
 
 ## Resources
 - [Official Nginx caching guide](https://www.nginx.com/blog/nginx-caching-guide/)
+- [Video Resource](https://youtu.be/IdfvzyH0ZFM)
